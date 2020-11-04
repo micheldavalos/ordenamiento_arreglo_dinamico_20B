@@ -189,6 +189,7 @@ void Arreglo<T>::seleccion()
         // continua implementando el algoritmo
         // min = i
         // for de j = i + 1 hasta cont
+        // dentro del for: si arreglo[j] < arreglo[min], entonces min = j
         // intercambia(arreglo, i, min)
     }
     
